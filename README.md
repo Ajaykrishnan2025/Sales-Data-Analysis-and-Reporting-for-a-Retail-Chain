@@ -33,10 +33,11 @@ Retail businesses generate vast amounts of transactional data daily. This projec
 ## 📊 Visual Insights
 
 ### Monthly Sales Trends
-![Monthly Sales Trends](images/sales_trends_chart.png)
+<img width="996" height="778" alt="Screenshot 2025-08-24 143835" src="https://github.com/user-attachments/assets/50ea7fb1-2e90-40c9-8e96-002a8ac17668" />
 
 ### Dashboard Overview
-![Dashboard Overview](images/dashboard_overview.png)
+!<img width="1164" height="584" alt="Screenshot 2025-08-24 144002" src="https://github.com/user-attachments/assets/1a86acd7-8aaf-492b-9154-234a90d443ef" />
+rd_overview.png)
 
 ## 🚀 Impact
 
